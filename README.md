@@ -100,7 +100,7 @@ portfolio/
 
 ## 📞 Contact
 
-* 📧 Email: [aayushgodwe@gmail.com](mailto:aayushgodwe@gmail.com)
+* 📧 Email: [aayushgodwe11@gmail.com](mailto:aayushgodwe11@gmail.com)
 * 📱 Phone: +91 9423841541
 * 🔗 LinkedIn: https://www.linkedin.com/in/aayush-godwe
 * 💻 GitHub: https://github.com/Aayushgodwe
