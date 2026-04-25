@@ -102,7 +102,7 @@ portfolio/
 
 * 📧 Email: [aayushgodwe11@gmail.com](mailto:aayushgodwe11@gmail.com)
 * 📱 Phone: +91 9423841541
-* 🔗 LinkedIn: https://www.linkedin.com/in/aayush-godwe
+* 🔗 LinkedIn: https://www.linkedin.com/in/aayush-godwe-72a304397/
 * 💻 GitHub: https://github.com/Aayushgodwe
 
 ---
