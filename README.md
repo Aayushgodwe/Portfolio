@@ -44,7 +44,6 @@ It highlights my profile, education, technical skills, and projects in a clean a
 portfolio/
 │── index02.html
 │── profile_pic.jpeg
-│── portfoliobc.jpeg
 │── portfoliobc_hd.jpeg
 ```
 
@@ -52,7 +51,6 @@ portfolio/
 
 ## 📸 Preview
 
-(Add screenshot here if needed)
 
 ---
 
@@ -104,7 +102,7 @@ portfolio/
 * 📱 Phone: +91 9423841541
 * 🔗 LinkedIn: https://www.linkedin.com/in/aayush-godwe-72a304397/
 * 💻 GitHub: https://github.com/Aayushgodwe
-
+* ✈️ Deployment link: https://portfolio-s8dn-oz4fn00zy-aayushgodwes-projects.vercel.app/
 ---
 
 ## ⚙️ How to Run
